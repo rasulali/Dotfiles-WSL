@@ -1,1 +1,1 @@
-# Dotfiles for WIndows Subsystem for Linux
+# Dotfiles of openSUSE Tumbleweed under WSL2
